@@ -7,8 +7,8 @@ public class BasePage {
     public BasePage(AppiumDriver driver) {
         this.driver = driver;
     }
-    public String userName="9449435770";
-    public String password="Pylshm4you";
+    public String userName="<USER_NAME>";
+    public String password="<PASSWORD>";
     AppiumDriver driver;
 
 
